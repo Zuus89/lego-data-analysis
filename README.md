@@ -44,6 +44,7 @@ lego-data-analysis/
 ├── data/ # Original CSV dataset
 ├── sql/ # SQL scripts for queries & maintenance
 ├── diagrams/ # Database schema models
+├── scripts / # python scripts
 ├── results/ # Query results in CSV format
 └── README.md # This file
 ```
