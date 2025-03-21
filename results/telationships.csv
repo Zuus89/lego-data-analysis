@@ -1,0 +1,8 @@
+﻿"index","table_name","column_name","referenced_table","referenced_column"
+"0","parts","part_cat_id","part_categories","id"
+"1","sets","theme_id","themes","id"
+"2","inventory_parts","color_id","colors","id"
+"3","inventory_parts","part_num","parts","part_num"
+"4","inventories","set_num","sets","set_num"
+"5","inventory_sets","inventory_id","inventories","id"
+"6","inventory_sets","set_num","sets","set_num"
